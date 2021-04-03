@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+.grid{
+    display: flex;
+}
+
+#nav-bar{
+    text-align: right;
+    margin: 15px 15px 15px 15px;
+    padding: 5px 10px 5px 10px;
+    font-size: medium;
+}
+
+#nav-link{
+    margin: 0px 60px 0px 60px;
+    padding: auto;
+}
+
+#email{
+    width: 260px;
+}
+
+#submit{
+    background-color: yellow;
+    font-size: medium;
+    padding: 5px 20px 5px 20px;
+    margin: 20px 10px 20px 10px;
+}
+
+#form{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
